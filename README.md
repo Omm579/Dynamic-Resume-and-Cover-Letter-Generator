@@ -1,8 +1,10 @@
-# Resume and Cover Letter AI
+# Dynamic Resume and Cover Letter Generator
 
 A modern, AI-powered web application that helps users create professional resumes and cover letters with intelligent suggestions and formatting.
 
-🔗 **Live Demo**: [https://resume-and-cover-letter-ai.netlify.app/](https://resume-and-cover-letter-ai.netlify.app/)
+## 🔗 Live Demo
+
+**🚀 [View Live Application](https://resume-and-cover-letter-ai.netlify.app/)
 
 ## ✨ Features
 
@@ -34,8 +36,8 @@ A modern, AI-powered web application that helps users create professional resume
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd resume-and-cover-letter-ai
+git clone https://github.com/Omm579/Dynamic-Resume-and-Cover-Letter-Generator.git
+cd Dynamic-Resume-and-Cover-Letter-Generator
 ```
 
 2. Install dependencies:
@@ -48,7 +50,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:5174`
 
 ## 📁 Project Structure
 
@@ -85,37 +87,27 @@ The application uses Tailwind CSS for styling. You can customize the design by:
 The modular architecture makes it easy to add new features:
 1. Create new components in `src/components/`
 2. Add new pages in `src/pages/`
-3. Implement custom hooks in `src/hooks/`
-4. Add utility functions in `src/utils/`
 
-## 🚀 Deployment
-
-The application is automatically deployed to Netlify. For manual deployment:
-
-1. Build the application:
-```bash
-npm run build
-```
-
-2. Deploy the `dist` folder to your preferred hosting service.
-
-### Netlify Deployment
-This project is configured for seamless Netlify deployment:
-- Automatic deployments from your git repository
-- Build command: `npm run build`
-- Publish directory: `dist`
+## **Deployment**
+- **Netlify** - Continuous deployment and hosting
+- **Automatic builds** - Deploy on every push to main branch
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
+We welcome contributions! Here's how you can help:
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and add tests if applicable
-4. Run linting: `npm run lint`
-5. Commit your changes: `git commit -m 'Add some feature'`
-6. Push to the branch: `git push origin feature/your-feature-name`
-7. Submit a pull request
+1. **Fork the repository**
+2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
+3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
+4. **Push to the branch** (`git push origin feature/amazing-feature`)
+5. **Open a Pull Request**
+
+### **Contribution Guidelines**
+- Follow the existing code style and conventions
+- Add TypeScript types for all new code
+- Test your changes thoroughly
+- Update documentation as needed
+- Ensure responsive design principles are maintained
 
 ### Code Style
 
@@ -136,12 +128,14 @@ If you encounter any bugs or have feature requests, please create an issue on Gi
 - Expected vs actual behavior
 - Screenshots if applicable
 
-## 📞 Support
+## 📞 Contact & Links
 
-For support and questions:
-- Create an issue on GitHub
-- Check the documentation
-- Review existing issues for solutions
+**🌐 Live Application:** [https://resume-and-cover-letter-ai.netlify.app/](https://resume-and-cover-letter-ai.netlify.app/)
+
+**Project Maintainer:** Om Debasish
+- **Email:** omdebasish.2006@gmail.com
+- **GitHub:** [@Omm579](https://github.com/Omm579)
+- **LinkedIn:** [My LinkedIn](https://linkedin.com/in/om-debasish-07ba92321)
 
 ## 🎯 Roadmap
 
@@ -153,6 +147,21 @@ For support and questions:
 - [ ] Enhanced export options
 - [ ] User accounts and document saving
 
+## 🚀 Deployment
+
+This application is automatically deployed to Netlify. Every push to the main branch triggers a new build and deployment.
+
+**Deployment URL:** https://resume-and-cover-letter-ai.netlify.app/
+
+To claim this Netlify project and transfer it to your own account, use the claim URL provided during deployment.
+
 ---
 
+<div align="center">
+
 **Built with ❤️ using React, TypeScript, and Tailwind CSS**
+
+
+[⭐ Star this repo](https://github.com/Omm579/Dynamic-Resume-and-Cover-Letter-Generator) | [🐛 Report Bug](https://github.com/Omm579/Dynamic-Resume-and-Cover-Letter-Generator/issues) | [💡 Request Feature](https://github.com/Omm579/Dynamic-Resume-and-Cover-Letter-Generator/issues) | [🌐 View Live Demo](https://resume-and-cover-letter-ai.netlify.app/)
+
+</div>
