@@ -101,6 +101,14 @@ const Home: React.FC = () => {
             </h2>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
               We're constantly improving to make your job search even more successful. Here's what's coming next.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[
+              {
+                title: 'Multiple Resume Templates',
+                description: 'Choose from a variety of professionally designed templates for different industries',
                 icon: '📄',
                 status: 'Coming Soon'
               },
