@@ -4,7 +4,7 @@ A modern, AI-powered web application that helps users create professional resume
 
 ## 🔗 Live Demo
 
-**🚀 [View Live Application](https://resume-and-cover-letter-ai.netlify.app/)
+🚀 [View Live Application](https://resume-and-cover-letter-ai.netlify.app/)
 
 ## ✨ Features
 
