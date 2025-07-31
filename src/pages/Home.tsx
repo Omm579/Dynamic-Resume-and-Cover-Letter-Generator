@@ -105,6 +105,9 @@ const Home: React.FC = () => {
             <span>Get Started Now</span>
           </Link>
         </div>
+          <p className="text-center text-m text-white mt-12">
+            © Created and developed by Om Debasish. All rights reserved.
+          </p>
       </section>
     </div>
   );
